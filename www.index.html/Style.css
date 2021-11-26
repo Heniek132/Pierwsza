@@ -1,0 +1,63 @@
+body
+{
+    background-image: url(https://i.imgur.com/gyDTgYA.jpg);
+    font-family: verdana;
+    font-size: 20px;
+    color: white;    
+    border-style:solid;
+
+
+}
+
+h4
+{
+    font-size: 32px;
+    color: chocolate;
+}
+
+h1
+{
+    font-size: 48px;
+    color: red;
+}
+
+h3
+{
+    font-size: 48px;
+    color: red;
+    text-align: center;
+}
+:link
+{
+    font-size: 32px;
+    font-family: Verdana;
+    color: lime;
+}
+
+a
+{
+    color:lime;
+}
+
+a:hover
+{
+    color:lime
+}
+
+h5
+{
+    font-size: 30px;
+    color:red
+}
+
+img
+{
+    border-style:solid;
+    border-width:"2";
+    border-color: red;
+}
+
+
+
+
+

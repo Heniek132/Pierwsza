@@ -1,0 +1,13 @@
+
+h1
+{
+    font-size: 24px;
+    color:rgb(153, 153, 153);
+    text-align: center;
+}
+
+h1
+{
+    text-decoration-color:rgb(252, 12, 12);
+    text-decoration-line:underline;
+}
